@@ -1,1 +1,6 @@
-
+<!--
+  index.html
+  Author: newchea
+  Description: A mobile-friendly Git simulation page that tells my journey of learning to code and use GitHub from my phone.
+  Features: Simulated 'git status', 'git commit', 'git log', with styled output for learning/demo purposes.
+-->
